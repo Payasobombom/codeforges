@@ -2,3 +2,6 @@
 Main.class
 build/**
 .idea/**
+haskell/*.o
+haskell/*.hi
+haskell/*.exe
