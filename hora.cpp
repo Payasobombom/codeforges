@@ -4,12 +4,12 @@ int main ()
 {
 int t,h,m;
 scanf("%d",&t);
+t=t-1
 
-    for (int i=0;i>t;i=i+1)
+    for (int i=0;i<=t;i++)
     {
-        scanf("%d",&h);
-        scanf("%d",&m);
-           
+        scanf("%d %d",&h,&m);
+
                 h= 23 - h;
                 m= 60 - m;
                     if (h==0)
