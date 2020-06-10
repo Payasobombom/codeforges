@@ -1,5 +1,7 @@
-
-using namespace std;
+#include <iostream>
+#include <stdio.h>
+//#include <string>
+//using namespace std;
 
 int main() {
     int n, m;
